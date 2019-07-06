@@ -41,7 +41,7 @@
     "github-markdown-css": "^2.0.10",
     "highlight.js": "^8.8.0",
     "keymaster": "^1.6.2",
-    "marked": "^0.3.5"
+    "marked": "^0.4.0"
   },
   "dev": {
     "host": "localhost",
